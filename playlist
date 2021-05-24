@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,TF1 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="TF1 FHD" tvg-logo="" group-title="ENTERTAINMENT FR",TF1 FHD
 http://androidtv33.xyz:80/19841984/19841984/9247
 #EXTINF:-1, FR: M6 FHD
 http://xtra.xcs521.cz:8080/KzilaUMFaY/lUE9wE6vqE/2474
