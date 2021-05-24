@@ -1,5 +1,8 @@
 #EXTM3U
-#EXT-X-STREAM-INF:-1 tvg-name="TF1 FHD" tvg-logo="" group-title="Entertainment FR",TF1 FHD
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:111
+#EXT-X-MEDIA-SEQUENCE:2680
+#EXTINF:-1 tvg-name="TF1 FHD" tvg-logo="" group-title="Entertainment FR",TF1 FHD
 http://xtra.xcs521.cz:8080/KzilaUMFaY/lUE9wE6vqE/2479.ts
 #EXTINF:-1, FR: M6 FHD
 http://xtra.xcs521.cz:8080/KzilaUMFaY/lUE9wE6vqE/2474
