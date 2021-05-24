@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:60 tvg-ID="" tvg-name="TF1 FHD" tvg-logo="" group-title="ENTERTAINMENT FR",TF1 FHD
+#EXTINF:0 tvg-ID="" tvg-name="TF1 FHD" tvg-logo="" group-title="ENTERTAINMENT FR",TF1 FHD
 http://xtra.xcs521.cz:8080/KzilaUMFaY/lUE9wE6vqE/2479
-#EXTINF:-1, FR: M6 FHD
+#EXTINF:0,M6 FHD,M6 FHD
 http://xtra.xcs521.cz:8080/KzilaUMFaY/lUE9wE6vqE/2474
-#EXTINF:0 FRANCE 2 FHD
+#EXTINF:0,FRANCE 2 FHD
 http://xtra.xcs521.cz:8080/KzilaUMFaY/lUE9wE6vqE/2478
 #EXTINF:0 FRANCE 3 FHD
 http://xtra.xcs521.cz:8080/KzilaUMFaY/lUE9wE6vqE/2477
