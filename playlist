@@ -1,9 +1,5 @@
 #EXTM3U
-
-FranceTV
-
------------ENTERTAINMENT FR-----------
-EXTINF:-1 tvg-name="TF1 FHD" tvg-logo="https://images.app.goo.gl/2pEZYFJvDLSmGzfJ9" group-title="Entertainment FR",TF1 FHD
+#EXTINF:-1, tvg-name="TF1 FHD" tvg-logo="https://images.app.goo.gl/2pEZYFJvDLSmGzfJ9" group-title="Entertainment FR",TF1 FHD
 http://xtra.xcs521.cz:8080/KzilaUMFaY/lUE9wE6vqE/2479
 
 #EXTINF:-1,M6 FHD
@@ -512,13 +508,13 @@ http://xtra.xcs521.cz:8080/KzilaUMFaY/lUE9wE6vqE/18525
 http://xtra.xcs521.cz:8080/KzilaUMFaY/lUE9wE6vqE/18524
 
 
-#EXTINF:-1 tvg-name="BEINSPORT1FR" tvg-logo="https://images.app.goo.gl/Ehi1DXXnHLKVEXRr7" group-title="SportsFR",BEINSPORT1FR
+#EXTINF:-1, tvg-name="beIN SPORT 1FR" tvg-logo="https://images.app.goo.gl/Ehi1DXXnHLKVEXRr7" group-title="SportsFR",beIN SPORT 1FR
 http://xtra.xcs521.cz:8080/KzilaUMFaY/lUE9wE6vqE/544
-#EXTINF:-1 tvg-name="BEINSPORT2FR" tvg-logo="https://images.app.goo.gl/TX2vVbakugUW5zdh7" group-title="SportsFR",BEINSPORT2FR
+#EXTINF:-1, tvg-name="BEINSPORT2FR" tvg-logo="https://images.app.goo.gl/TX2vVbakugUW5zdh7" group-title="SportsFR",BEINSPORT2FR
 http://xtra.xcs521.cz:8080/KzilaUMFaY/lUE9wE6vqE/543
-#EXTINF:-1 tvg-name="BEINSPORT2FR" tvg-logo="https://images.app.goo.gl/6nGFS59ey8MwRjcs9" group-title="SportsFR",BEINSPORT3FR
+#EXTINF:-1, tvg-name="BEINSPORT2FR" tvg-logo="https://images.app.goo.gl/6nGFS59ey8MwRjcs9" group-title="SportsFR",BEINSPORT3FR
 http://xtra.xcs521.cz:8080/KzilaUMFaY/lUE9wE6vqE/542
-#EXTINF:-1 tvg-name="BEINSPORT2FR" tvg-logo="https://images.app.goo.gl/TX2vVbakugUW5zdh7" group-title="SportsFR",BEINSPORT4FR
+#EXTINF:-1, tvg-name="BEINSPORT2FR" tvg-logo="https://images.app.goo.gl/TX2vVbakugUW5zdh7" group-title="SportsFR",BEINSPORT4FR
 http://xtra.xcs521.cz:8080/KzilaUMFaY/lUE9wE6vqE/543
 #EXTINF:-1 tvg-name="BEINSPORT2FR" tvg-logo="https://images.app.goo.gl/TX2vVbakugUW5zdh7" group-title="SportsFR",BEINSPORT5FR
 http://xtra.xcs521.cz:8080/KzilaUMFaY/lUE9wE6vqE/543
